@@ -1,4 +1,4 @@
-# Brute-Force-Logging-SIEM-Logging-Project:
+# Brute-Force-SIEM-Logging-Project:
 <h2>Failed RDP to IP Geolocation Information</h2>
 <h3>Description: </h3>
 
